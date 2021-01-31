@@ -10,7 +10,7 @@ import time
 
 import machine
 
-# Define the i2c interface on pins 0 and 1. Ground is taken from pin 2 and 3.3v from pin 36 (3V3(OUT))
+# Define the i2c interface on pins 1 and 2. Ground is taken from pin 3 and 3.3v from pin 36 (3V3(OUT))
 sda = machine.Pin(0)  # GP_0
 scl = machine.Pin(1)  # GP_1
 
