@@ -58,7 +58,7 @@ Humidity is 47.62598 %
 
 The [BME280](https://shop.pimoroni.com/products/bme280-breakout) sensor used
 
-Bosch [datasheet](file:///C:/Users/Mr%20Rodent/Desktop/bst-bme280-ds002.pdf) for the sensor
+Bosch [datasheet](https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf) for the sensor
 
 ## Coffee
 
