@@ -17,7 +17,6 @@ GND | 3 | GND
 
 ![Pi Pico](connections.png)
 
-
 ## Code
 
 The [code](main.py) is in a style to aid understanding rather than being production ready. For example:
