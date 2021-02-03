@@ -1,6 +1,7 @@
 # Raspberry Pi Pico with BME280 Sensor
 
-A small project to demonstrate how to talk to a device on the i2c bus with no third party libraries
+A small project to demonstrate how to talk to a device on the I2C bus without third party libraries.
+This uses microPython on the Pi Pico with a BME280 Sensor.
 
 The BME280 is an environmental sensor capable of measuring temperature, pressure and humidity
 
